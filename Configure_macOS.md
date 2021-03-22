@@ -6,6 +6,14 @@
 * [Eclipse](https://www.eclipse.org/eclipseide/)
 * [Microsoft Visual Studio](https://code.visualstudio.com/)
 
+Xcode is very intertwined into programming on a mac and won't be avoidable in some cases. It's also an 11.6GB download, so if you're limited on space you may not want to install it at all. It can take a while to download so if you have the space, it might be worth getting it out of the way.
+
+The **Xcode Command Line Tools** are the most likely reason you will need Xcode if you aren't using it as an IDE. Running this command in terminal should install those features without actually downloading Xcode.
+
+```bash
+xcode-select --install
+```
+
 ### Optional
 * [Homebrew](https://brew.sh/)
 * [iTerm2](https://iterm2.com/)

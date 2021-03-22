@@ -18,4 +18,10 @@ Project just began on 2021-03-20, I will check these off as I complete them.
 - [ ] [FAQ](FAQ.md)
 
 
-
+### Common Jargon (Just to get started)
+* **GUI - (Graphical User Interface)**: A system of interactive visual components for computer software. 
+* **CLi - (Command Line)**: Text interface without a GUI, where the user inputs text commands without the use of a mouse.
+* **IDE - (Integrated Development Environment)**: is software for building applications that combines common developer tools into a single graphical user interface (GUI).
+* **API - Application Programming Interface**: a set of routines, protocols, and tools for building software applications.
+* **Repo - (Repository)**: The project folder with all of your files, which includes a `.git` folder containing the revision history. (Should never edit the contents of `.git` unless you know what you are doing.)
+* **DevOps**: Set of practices that combines software development (Dev) and IT operations (Ops). It aims to shorten the systems development life cycle and provide continuous delivery with high software quality.

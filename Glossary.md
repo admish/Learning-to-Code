@@ -1,6 +1,6 @@
 ## Glossary
 
-This list is a work in progress, and currently includes multiple lists that I share for non-programming situations. There are duplicates and I've sourced what I can remember.
+> *This list is a work in progress, and currently includes multiple lists that I share for non-programming situations. There are duplicates and I've sourced what I can remember.*
 
 **10Base-T**:  	An adaptation of the Ethernet standard for Local Area Networks that refers to running Ethernet over twisted pair wires. Students planning on using ResNet from a residence hall must be certain to use an Ethernet adapter that is 10Base-T compatible and not BNC (used with 10Base-2 Ethernet systems). 
 

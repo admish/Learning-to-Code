@@ -1,5 +1,8 @@
 # Configuring a Mac
 
+## Dotfiles
+macOS is a Unix-based and uses a Unix-terminal. In a Unix-like enviroment files that start with a `.` are automatically hidden. (Commonly referred to as dotfiles) To make them visible in Finder, simply toggle the visibility setting by pressing <kbd>Command ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>.</kbd> on your keyboard.
+
 ## Software
 ### IDE
 * [Xcode](https://developer.apple.com/xcode/) (Install from [App Store](https://apps.apple.com/us/app/xcode/id497799835?mt=12))

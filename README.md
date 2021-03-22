@@ -9,12 +9,12 @@ Project just began on 2021-03-20, I will check these off as I complete them.
 - [ ] [Getting Started](Getting_Started.md)
 - [ ] [Picking a Programming Language](Picking_Language.md)
 - [ ] [Selecting a Computer](Selecting_Computer.md)
-- [ ] [Configuring a Mac](Configure_macOS.md)
+- [x] [Configuring a Mac](Configure_macOS.md)
 - [ ] [Configuring a Windows PC](Configure_Windows.md)
 - [ ] [Using a Terminal or Console](Command_Line.md)
-- [ ] [Version Control](Version_Control.md)
-- [ ] [Coding Best Practices](Best_Practices.md)
-- [ ] [Jargon and Terminology Glossary](Glossary.md)
+- [x] [Version Control](Version_Control.md)
+- [x] [Coding Best Practices](Best_Practices.md)
+- [x] [Jargon and Terminology Glossary](Glossary.md)
 - [ ] [FAQ](FAQ.md)
 
 
